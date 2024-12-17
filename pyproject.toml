@@ -1,0 +1,13 @@
+[project]
+name='autowick'
+version='1.0'
+authors = [
+    {name='Andreas Hackl', email="andreas.hackl@ur.de"}
+]
+description = 'Automated wick contractor for nucleon pion correlation functions.'
+requires-python = ">=3.6"
+readme = "README.md"
+dependencies = [
+    "numpy",
+]
+license = { file = "LICENSE" }
